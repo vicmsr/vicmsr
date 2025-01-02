@@ -3,7 +3,7 @@
 - #### 👨‍💻​ Victor - 20 yo <br>
 - #### 🌍​ Paris, France <br>
 - #### 🎓​ NEOMA BS / EPITECH - Coding Academy <br>
-- #### 💼​ Intern at Rakuten France - Front End Developer
+- #### 💼​ Intern at Rakuten France - Front End Developer (july - december 2024)
 
 ## 🌐 Socials :
 
